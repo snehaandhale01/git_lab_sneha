@@ -2,4 +2,4 @@ Welcome To GitBash
 GitBash Commands
 Zeal Polytechnic
 Sneha Andhale from TYA
-This is from Github
+This is from GitHub
